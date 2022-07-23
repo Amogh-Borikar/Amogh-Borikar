@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Data analytics and Project Management.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/amogh-borikar/)
 - 📊 Checkout my Tableau profile [Tableau](https://public.tableau.com/app/profile/amogh6371)
+- 🌐 Visit my [online portfolio](https://www.amoghborikar.com) to learn more about me! 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amogh-Borikar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
